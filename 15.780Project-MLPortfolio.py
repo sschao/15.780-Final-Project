@@ -1,16 +1,4 @@
 
-# coding: utf-8
-
-# In[1]:
-
-#!/usr/bin/env python3
-
-"""
-Created on Wed Dec  5 21:02:20 2018
-
-@author: rosannaz
-"""
-
 import csv
 
 # Load the Pandas libraries with alias 'pd' 
